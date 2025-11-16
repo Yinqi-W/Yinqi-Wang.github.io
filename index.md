@@ -28,7 +28,9 @@ Description: This dataset provides the detailed statistic on COVID-19 vaccinatio
 ### Bar Chart of Walmart Visits from 2020 to 2024
 ![Bar Chart of Walmart Visits from 2020 to 2024](Walmart.png)
 ###
-<iframe src="location.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="location.html" width="100%" height="600" style="border:none;">
+<p›Your browser does not support iframes.</p > 
+</iframe>
 
 ## Above and Beyond
 
