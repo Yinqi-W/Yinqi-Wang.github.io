@@ -4,7 +4,7 @@
 Discription: Here is the temperature data for Rome for the entire year of 2025.
 2. [Weather] The rainfall in Rome: (https://meteostat.net/en/place/it/rome?s=16235&t=2025-01-01/2025-07-01&utm_source=chatgpt.com)
 Discription: The dataset contains the precipitation data for Rome in 2025.
-3. [Temperature] The temperature for Chicago is from [NCDC Web page](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/locations/CITY:US170006/detail）
+3. [Temperature] The temperature for Chicago is from [NCDC Web page].(https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/locations/CITY:US170006/detail)
 Discription: Here is the temperature data for Chicago for the entire year of 2025. These two cities have the same latitude, so the temperature can be used to conpared with Rome's.
 4. [Weather] The rainfall in Chicago: (https://www.ncei.noaa.gov/access/past-weather/chicago)
 Discription: This dataset includes the information on whether it rained and the amount of precipitation.
