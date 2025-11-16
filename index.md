@@ -26,4 +26,4 @@ Description: This dataset provides the detailed statistic on COVID-19 vaccinatio
 
 ## Where is Schueller?
 ### Bar Chart of Walmart Visits from 2020 to 2024
-![Bar Chart of Walmart Visits from 2020 to 2024](Bar Chart of Walmart Visits from 2020 to 2024.png)
+![Bar Chart of Walmart Visits from 2020 to 2024](Walmart.png)
