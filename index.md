@@ -9,7 +9,7 @@ Discription: Here is the temperature data for Chicago for the entire year of 202
 4. [Weather] The [rainfall in Chicago](https://www.ncei.noaa.gov/access/past-weather/chicago)
 Discription: This dataset includes the information on whether it rained and the amount of precipitation.
 ### Project Idea: I would like to compare the temperature and prcp difference between the cities which locate at same latitude.
-5. [Covid-19]：（https://www.datalumos.org/datalumos/project/238956/version/V1/view?path=/datalumos/238956/fcr:versions/V1/DataDictionary_v37_05052023.xlsx&type=file）
+5. [Covid-19]：The form from ICPSR website describes the [proportion of population reveived Covid-19 vaccinations in different states](https://www.datalumos.org/datalumos/project/238956/version/V1/view?path=/datalumos/238956/fcr:versions/V1/DataDictionary_v37_05052023.xlsx&type=file)
 Description: This dataset provides the detailed statistic on COVID-19 vaccinations in each US state after May 10, 2023
 ### Project Idea: Compare the relationship between vaccination numbers and death counts across different states.
 
