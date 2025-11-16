@@ -25,3 +25,5 @@ Description: This dataset provides the detailed statistic on COVID-19 vaccinatio
 ### Project Idea: Compare the relationship between vaccination numbers and death counts across different states.
 
 ## Where is Schueller?
+### Bar Chart of Walmart Visits from 2020 to 2024
+[Bar Chart of Walmart Visits from 2020 to 2024](Bar Chart of Walmart Visits from 2020 to 2024.png)
