@@ -1,4 +1,4 @@
-# Project Portfolio
+# Weather and CO₂ Trends Analysis
 
 ## Group member:
 Yinqi Wang & Uli Rodriguez
