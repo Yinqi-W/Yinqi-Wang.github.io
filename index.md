@@ -7,7 +7,7 @@ Yinqi Wang & Uli Rodriguez
 We want to compare the weather (including the temperature and the number of rainy days) and CO2 trends of two cities located at the same latitude. So we chose Rome and Chicago. Both of them are roughly at the same latitude of 41°N. Through NOAA, I obtained the temperature and precipitation data for Chicago from 2025-1-1 to 2025-7-1, and through Visualcrossing I got the temperature and precipitation for Rome. 
 
 ## Analysis:
-[Weather comparison between two cities]()
+[Weather comparison between two cities](https://yinqi-w.github.io/Weather-and-CO2-trends-analysis/)
 
 ## Data Source and Project Ideas
 1. [Temperature] The temperature for Rome is from [visualcrossing Website](https://www.visualcrossing.com/weather-history/Roma,%20Lazio,%20Italia/us/2025-01-01/2025-07-31/)
